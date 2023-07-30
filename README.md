@@ -28,26 +28,19 @@ This project is aiming the followings.
 * Bridge the data between thermostat and users.
 
 
-Device fromt.
 ![Device front](https://github.com/0x4f48/mythermostat/blob/main/misc/device-front.jpg)
 
-Device inside.
-![Device inside 1](https://github.com/0x4f48/mythermostat/blob/main/misc/device-inside01.jpg)
+![Device inside](https://github.com/0x4f48/mythermostat/blob/main/misc/device-inside01.jpg)
 
-Device inside, level shifter.
-![Device inside 2](https://github.com/0x4f48/mythermostat/blob/main/misc/device-inside02.jpg)
+![Device inside, level shifter](https://github.com/0x4f48/mythermostat/blob/main/misc/device-inside02.jpg)
 
-Device inside, AD-DC module.
 ![ACDC module](https://github.com/0x4f48/mythermostat/blob/main/misc/ac24-dc5.jpg)
 
 
-App login.
 ![App login](https://github.com/0x4f48/mythermostat/blob/main/misc/app-login.jpg)
 
-App main control.
-![App main](https://github.com/0x4f48/mythermostat/blob/main/misc/app-main.jpg)
+![App main control](https://github.com/0x4f48/mythermostat/blob/main/misc/app-main.jpg)
 
-App graph.
 ![App graph](https://github.com/0x4f48/mythermostat/blob/main/misc/app-graph.jpg)
 
 
