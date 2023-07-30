@@ -28,19 +28,19 @@ This project is aiming the followings.
 * Bridge the data between thermostat and users.
 
 
-![Device front](https://github.com/0x4f48/mythermostat/blob/main/misc/device-front.jpg)
+<img src="https://github.com/0x4f48/mythermostat/blob/main/misc/device-front.jpg" width="60%">
 
-![Device inside](https://github.com/0x4f48/mythermostat/blob/main/misc/device-inside01.jpg)
+<img src="https://github.com/0x4f48/mythermostat/blob/main/misc/device-inside01.jpg" width="60%">
 
-![Device inside, level shifter](https://github.com/0x4f48/mythermostat/blob/main/misc/device-inside02.jpg)
+<img src="https://github.com/0x4f48/mythermostat/blob/main/misc/device-inside02.jpg" width="60%">
 
-![ACDC module](https://github.com/0x4f48/mythermostat/blob/main/misc/ac24-dc5.jpg)
+<img src="https://github.com/0x4f48/mythermostat/blob/main/misc/ac24-dc5.jpg" width="60%">
 
 
-![App login](https://github.com/0x4f48/mythermostat/blob/main/misc/app-login.jpg)
+<img src="https://github.com/0x4f48/mythermostat/blob/main/misc/app-login.jpg" width="60%">
 
-![App main control](https://github.com/0x4f48/mythermostat/blob/main/misc/app-main.jpg)
+<img src="https://github.com/0x4f48/mythermostat/blob/main/misc/app-main.jpg" width="60%">
 
-![App graph](https://github.com/0x4f48/mythermostat/blob/main/misc/app-graph.jpg)
+<img src="https://github.com/0x4f48/mythermostat/blob/main/misc/app-graph.jpg" width="60%">
 
 
